@@ -1,0 +1,55 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 500px;
+  margin: 50px auto;
+  padding: 10px;
+}
+
+h1{
+    align-content: center;
+}
+.text{
+    align-items: center;
+    margin-right: 10px;
+}
+
+.add{
+    background-color: aqua;
+    margin-right: 20px;
+}
+.edit-content{
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-right: 40px;
+    width: auto;
+}
+.delete-content{
+    background-color: red;
+     align-items: center;
+    justify-content: center;
+    align-content: center;
+     margin-right: 40px;
+     width: auto; 
+}
+.new-button-update{
+     background-color: yellow;
+     align-items: center;
+    justify-content: center;
+    align-content: center;
+     margin-right: 40px;
+     width: auto;
+}
+
+.content{
+    width: auto;
+     align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    padding-right: 50px;
+}
